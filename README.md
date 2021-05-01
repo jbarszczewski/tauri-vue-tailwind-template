@@ -1,4 +1,4 @@
-# tauri-vue-tailwind
+# tauri-vue2-bootstrap-template-v2
 
 ## Project setup
 ```
